@@ -1,6 +1,6 @@
 # Study-on-Factors-influencing-NYC-Housing-Prices
 ### Enigma Datathon Runner-up
-5 different publicly available datasets were used to analyse the factors influencing the housing prize.
+5 different publicly available datasets were used to analyse the factors influencing the housing price.
 ## Datasets are :
 1) Enigma NYC Property Sale:
 Accessed value land, Floor area residential, Floor area total building, Year built, Residential Units, altering history
